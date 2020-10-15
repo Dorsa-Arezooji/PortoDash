@@ -2,7 +2,7 @@
 
 A Shiny R app for visualizing investment portfolios + risk analysis + optimization
 
-<img src='https://github.com/Dorsa-Arezooji/PortoDash/blob/master/images/PortoDash_Demo.gif' width='90%'>
+<img src='https://github.com/Dorsa-Arezooji/PortoDash/blob/master/images/PortoDash_Demo.gif' width='100%'>
 
 * PortoDash is a cloud based, easy to use portfolio dashboard!
 * It visualizes your assets and portfolio, provides risk/return metrics, and more to help you choose which asssts to invest in.
