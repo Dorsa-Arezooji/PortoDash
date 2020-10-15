@@ -17,4 +17,4 @@ A Shiny R app for visualizing investment portfolios + risk analysis + optimizati
 * It calculates the returns and risks of your portfolio's assets to visualize your investment portfolio.
 * It also offers interactive visualizations of your assets and portfolio to help you gain insight.
 
-<hr/>
+&#169;<a href='https://Dorsa-Arezooji.github.io'> Dorsa Arezooji</a> 2020
