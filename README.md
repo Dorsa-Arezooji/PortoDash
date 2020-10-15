@@ -17,8 +17,9 @@ A Shiny R app for visualizing investment portfolios + risk analysis + optimizati
 * It calculates the returns and risks of your portfolio's assets to visualize your investment portfolio.
 * It also offers interactive visualizations of your assets and portfolio to help you gain insight.
 
-* You can try PortoDash <a href='https://dorsa-arezooji.shinyapps.io/PortoDash/'>here</a>
 
+
+* You can try PortoDash <a href='https://dorsa-arezooji.shinyapps.io/PortoDash/'>here</a>
 * You can use this <a href='https://github.com/Dorsa-Arezooji/PortoDash/blob/master/testdata.csv'>sample dataset</a>
 
 P.S. If the link is not available, try again in a few minutes!
