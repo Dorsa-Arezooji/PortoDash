@@ -21,6 +21,8 @@ You can try PortoDash here:
 
 https://dorsa-arezooji.shinyapps.io/PortoDash/
 
+You can use this <a href='https://github.com/Dorsa-Arezooji/PortoDash/blob/master/testdata.csv'>sample dataset</a>
+
 P.S. If the link is not available, try again in a few minutes!
 
 &#169;<a href='https://Dorsa-Arezooji.github.io'> Dorsa Arezooji</a> 2020
