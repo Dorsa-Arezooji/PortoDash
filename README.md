@@ -27,9 +27,9 @@ A Shiny R app for visualizing investment portfolios + risk analysis + optimizati
 
 ## Features Coming Soon 💡
 
-* PortoPredict --> predict
-* 
+* PortoPredict: Interactive machine learning for financial forecasting
+* Indicators
 
 ---
 
-&#169;<a href='https://Dorsa-Arezooji.github.io'> Dorsa Arezooji</a> 2020
+&#169;<a href='https://Dorsa-Arezooji.github.io'> Dorsa Arezooji</a> 2021
