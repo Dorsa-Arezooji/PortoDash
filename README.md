@@ -4,6 +4,8 @@ A Shiny R app for visualizing investment portfolios + risk analysis + optimizati
 
 <img src='https://github.com/Dorsa-Arezooji/PortoDash/blob/master/images/PortoDash_Demo.gif' width='100%'>
 
+## What is PortoDash?
+
 * PortoDash is a cloud based, easy to use dashboard for investment portfolios and financial analysis!
 * It visualizes your assets and portfolio, provides risk/return metrics, and more to help you choose which asssts to invest in.
 
@@ -15,13 +17,18 @@ A Shiny R app for visualizing investment portfolios + risk analysis + optimizati
 * PortoDash offers a number of return and risk models to choose from!
 * It calculates the returns and risks of your portfolio's assets to visualize your investment portfolio.
 * It also offers interactive visualizations of your assets and portfolio to help you gain insight.
+* It helps you optimize your portfolio by visualizing and comparing it to the efficient frontier.
 
+## How to use it?
 
-🔗 You can try PortoDash <a href='https://dorsa-arezooji.shinyapps.io/PortoDash/'>here</a>.
+🔗 You can try PortoDash <a href='https://dorsa-arezooji.shinyapps.io/PortoDash/'>here</a>.<br>
+* There, you can find a comprehensive documentation.
+* You can also use this <a href='https://github.com/Dorsa-Arezooji/PortoDash/blob/master/testdata.csv'>sample dataset to get started</a>.
 
-💡 You can use this <a href='https://github.com/Dorsa-Arezooji/PortoDash/blob/master/testdata.csv'>sample dataset</a>
+## Features Coming Soon 💡
 
-
+* PortoPredict --> predict
+* 
 
 ---
 
