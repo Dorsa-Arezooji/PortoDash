@@ -26,7 +26,7 @@
 ## Features Coming Soon 💡
 
 * PortoPredict: Interactive machine learning for financial forecasting
-* PortOptimizer: Automatically optimization of asset weights 
+* PortOptimizer: Automatic optimization of asset weights 
 * Indicators
 * Dark mode
 
